@@ -1,0 +1,5 @@
+Apr 20 02:58:00 core-net SIEM: [ALERT] High CPU usage detected on UPF node at 10.10.0.21 - CPU at 97%
+Apr 20 02:58:00 core-net SIEM: [WARNING] Recursive GTP-U encapsulation anomaly observed on 10.10.0.21. Potential protocol misuse.
+Apr 20 02:58:00 core-net SIEM: [CRITICAL] Memory leak suspected on UPF at 10.10.0.21 - Memory usage at 92%
+Apr 20 02:58:00 core-net SIEM: [NOTICE] UPF (IP: 10.10.0.21) latency spike detected - RTT: 451.2 ms
+Apr 20 02:58:00 core-net SIEM: [ALERT] Packet drop threshold exceeded at UPF 10.10.0.21 - Dropped packets: 312
