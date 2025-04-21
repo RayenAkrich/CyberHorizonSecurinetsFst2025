@@ -7,4 +7,6 @@ Détail du compétition :
   - Conférence n°3 : Security challenges in the Telecommunication Sector
   - Conférence n°4 – Case Study : Cyber incidents et continuité d’activité
   - Workshops: 5G Architecture, Business Continuity, Cyber Incident Management
+  - Compétition (00:00 - 08:00)
+  - Pitch de la solution
 
