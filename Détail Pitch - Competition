@@ -2,7 +2,11 @@ Lien du pitch :
   https://www.canva.com/design/DAGk4LoRdZQ/tUZqgtd_XlXJWOI0J6686Q/edit?utm_content=DAGk4LoRdZQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Durant la compétition : 
- - on nous a obligé d'utiliser le plateforme Battleground pour se communiquer, à chaque 30min on doit obligatoirement envoyer un mail pour le Chef expliquant la situation actuel , les problèmes identifiés et les solutions qu'on est en train de traiter. 
-- on nous a appelé chaque 1h en tant que chef du Monoprix (simulation d'un chef qui ne peut pas attendre l'état bas du serveur) pour nous font vivre une vraie situation de crise et on doit assurer avec chaque appel que l'état des données est sécurisée et qu'on est proche de la solution 
-- concernant la détection du problème, elle est faite grace au fichier log analysé par wireshark pour identifier un protocole suspect (gtp/gtp) qui mène a des doubles encapsulation puis avec l'analyse de la topologie on a pu identifier la région du Hacker qui était en Manar1 ensuite on a investigué toutes les appareils liées à cette région jusqu'à trouver un fichier hacker.txt dans le smartphone 5 avec le nom du Hacker crypté (@copyright Bassem Rebai)
+ - on nous a obligé d'utiliser le plateforme Battleground pour se communiquer, à chaque 30min on doit obligatoirement envoyer un mail 
+pour le Chef expliquant la situation actuel , les problèmes identifiés et les solutions qu'on est en train de traiter. 
+- on nous a appelé chaque 1h en tant que chef du Monoprix (simulation d'un chef qui ne peut pas attendre l'état bas du serveur) 
+pour nous font vivre une vraie situation de crise et on doit assurer avec chaque appel que l'état des données est sécurisée et qu'on est proche de la solution 
+- concernant la détection du problème, elle est faite grace au fichier log analysé par wireshark pour identifier un protocole suspect (gtp/gtp) 
+qui mène a des doubles encapsulation puis avec l'analyse de la topologie on a pu identifier la région du Hacker qui était en Manar1 ensuite on a investigué 
+toutes les appareils liées à cette région jusqu'à trouver un fichier hacker.txt dans le smartphone 5 avec le nom du Hacker crypté (@copyright Bassem Rebai)
 - la slide 10 représente un entretien avec la presse pour expliquer l'état des serveurs (en arabe)
