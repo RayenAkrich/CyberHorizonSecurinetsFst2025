@@ -1,0 +1,103 @@
+Apr 20 00:00:00 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: Suricata engine running normally, no alerts.
+
+Apr 20 00:00:40 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: Signature database up to date. No hits.
+
+Apr 20 00:01:20 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: Signature database up to date. No hits.
+
+
+Apr 20 00:02:00 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: No threats detected on monitored interface eth0.
+
+Apr 20 00:02:40 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: All control plane signaling validated successfully.
+
+Apr 20 00:03:20 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: No anomalies in GTP-U traffic structure.
+
+Apr 20 00:04:00 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: No malformed packets found in the session.
+
+Apr 20 00:04:40 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: All control plane signaling validated successfully.
+
+Apr 20 00:05:20 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: Traffic pattern consistent with normal UE behavior.
+
+Apr 20 00:06:00 ids-core [INFO] From 10.10.0.12 to 10.10.0.21: Suricata engine running normally, no alerts.
+
+Apr 20 00:06:40 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: No anomalies in GTP-U traffic structure.
+
+Apr 20 00:07:20 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: Traffic pattern consistent with normal UE behavior.
+
+Apr 20 00:08:00 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: No anomalies in GTP-U traffic structure.
+
+Apr 20 00:08:40 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: All control plane signaling validated successfully.
+
+Apr 20 00:09:20 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: Signature database up to date. No hits.
+
+Apr 20 00:10:00 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: No threats detected on monitored interface eth0.
+
+Apr 20 00:10:40 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: Payloads conform to expected profiles for service type.
+
+Apr 20 00:11:20 ids-core [INFO] From 10.10.0.12 to 10.10.0.21: No unauthorized access attempts detected.
+
+Apr 20 00:12:00 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: No anomalies in GTP-U traffic structure.
+
+Apr 20 00:12:40 ids-core [INFO] From 10.10.0.12 to 10.10.0.21: No unauthorized access attempts detected.
+
+Apr 20 00:13:20 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: Suricata engine running normally, no alerts.
+
+Apr 20 00:14:00 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: No anomalies in GTP-U traffic structure.
+
+Apr 20 00:14:40 ids-core [INFO] From 10.10.0.12 to 10.10.0.21: No malformed packets found in the session.
+
+Apr 20 00:15:20 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: Signature database up to date. No hits.
+
+Apr 20 00:16:00 ids-core [INFO] From 10.10.0.12 to 10.10.0.21: No malformed packets found in the session.
+
+Apr 20 00:16:40 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: All control plane signaling validated successfully.
+
+Apr 20 00:17:20 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: No malformed packets found in the session.
+
+Apr 20 00:18:00 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: Packet inspection completed: all flows normal.
+
+Apr 20 00:18:40 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: Suricata engine running normally, no alerts.
+
+Apr 20 00:19:20 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: No threats detected on monitored interface eth0.
+
+Apr 20 00:20:00 ids-core [INFO] From 10.10.0.12 to 10.10.0.21: Packet inspection completed: all flows normal.
+
+Apr 20 00:20:40 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: Packet inspection completed: all flows normal.
+
+Apr 20 00:21:20 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: No anomalies in GTP-U traffic structure.
+
+Apr 20 00:22:00 ids-core [INFO] From 10.10.0.12 to 10.10.0.21: All control plane signaling validated successfully.
+
+Apr 20 00:22:40 ids-core [INFO] From 10.10.0.12 to 10.10.0.21: No anomalies in GTP-U traffic structure.
+
+Apr 20 00:23:20 ids-core [INFO] From 10.10.0.12 to 10.10.0.21: Signature database up to date. No hits.
+
+Apr 20 00:24:00 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: Signature database up to date. No hits.
+
+Apr 20 00:24:40 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: Payloads conform to expected profiles for service type.
+
+Apr 20 00:25:20 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: Suricata engine running normally, no alerts.
+
+Apr 20 00:26:00 ids-core [INFO] From 10.10.0.12 to 10.10.0.21: Payloads conform to expected profiles for service type.
+
+Apr 20 00:26:40 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: Packet inspection completed: all flows normal.
+
+Apr 20 00:27:20 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: Signature database up to date. No hits.
+
+Apr 20 00:28:00 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: Payloads conform to expected profiles for service type.
+
+Apr 20 00:28:40 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: No threats detected on monitored interface eth0.
+
+Apr 20 00:29:20 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: Suricata engine running normally, no alerts.
+
+Apr 20 00:30:00 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: No anomalies in GTP-U traffic structure.
+
+Apr 20 00:30:40 ids-core [INFO] From 10.10.0.12 to 10.10.0.21: Packet inspection completed: all flows normal.
+
+Apr 20 00:31:20 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: No unauthorized access attempts detected.
+
+Apr 20 00:32:00 ids-core [INFO] From 10.10.0.11 to 10.10.0.21: Payloads conform to expected profiles for service type.
+
+Apr 20 00:32:40 ids-core [INFO] From 10.10.0.13 to 10.10.0.21: Traffic pattern consistent with normal UE behavior.
+
+
+
